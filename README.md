@@ -1,6 +1,6 @@
 # 🎲 MagicNewton Dice Bot
 
-A simple Puppeteer bot to automate rolling dice on [MagicNewton](https://magicnewton.com/portal?referral=qw3lcv03mjqffoqu). The bot logs in using session cookies and attempts to roll the dice whenever it's available.
+A simple Puppeteer bot to automate rolling dice on [MagicNewton](https://magicnewton.com/portal?referral=xs3lxjw70sgc79ai). The bot logs in using session cookies and attempts to roll the dice whenever it's available.
 
 ## 🚀 Features
 - **Automated Dice Rolling:** 
@@ -14,8 +14,7 @@ A simple Puppeteer bot to automate rolling dice on [MagicNewton](https://magicne
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/hardeeps647/magicnewton-bot.git 
-cd magicnewton-bot
+git clone https://github.com/SKaaalper/magicnewton-bot.git && cd magicnewton-bot
 ```
 
 ### 2️⃣ Install dependencies
